@@ -26,7 +26,7 @@ const Certificates = () => {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center mb-8">
             <p className="text-muted-foreground">
-              EmpowerEdu maintains all necessary legal registrations and certifications to operate transparently 
+              Shring Training & Development Foundation maintains all necessary legal registrations and certifications to operate transparently 
               and efficiently. We are committed to the highest standards of governance, accountability, and compliance.
             </p>
           </div>
@@ -69,7 +69,7 @@ const Certificates = () => {
                     <p className="text-sm text-primary font-medium mb-2">Income Tax Act, 1961</p>
                     <p className="text-sm text-muted-foreground mb-3">
                       Registered under Section 12A and 80G of the Income Tax Act, enabling tax benefits for donors. 
-                      All donations to EmpowerEdu are eligible for 50% tax deduction under Section 80G.
+                      All donations to Shring Training & Development Foundation are eligible for 50% tax deduction under Section 80G.
                     </p>
                     <div className="flex items-center gap-2 text-sm">
                       <CheckCircle className="h-4 w-4 text-primary" />
@@ -84,29 +84,7 @@ const Certificates = () => {
               </CardContent>
             </Card>
 
-            <Card className="border-l-4 border-l-secondary">
-              <CardContent className="pt-6">
-                <div className="flex items-start gap-4">
-                  <Globe className="h-10 w-10 text-secondary flex-shrink-0 mt-1" />
-                  <div>
-                    <h3 className="font-bold text-lg mb-2">FCRA Registration</h3>
-                    <p className="text-sm text-secondary font-medium mb-2">Foreign Contribution Regulation Act, 2010</p>
-                    <p className="text-sm text-muted-foreground mb-3">
-                      Approved to receive foreign contributions for social welfare activities. This enables us to 
-                      partner with international organizations and receive funding from global philanthropies.
-                    </p>
-                    <div className="flex items-center gap-2 text-sm">
-                      <CheckCircle className="h-4 w-4 text-secondary" />
-                      <span className="text-muted-foreground">Registration No: 231650987</span>
-                    </div>
-                    <div className="flex items-center gap-2 text-sm mt-1">
-                      <CheckCircle className="h-4 w-4 text-secondary" />
-                      <span className="text-muted-foreground">Valid until: 2028</span>
-                    </div>
-                  </div>
-                </div>
-              </CardContent>
-            </Card>
+            
 
             <Card className="border-l-4 border-l-accent">
               <CardContent className="pt-6">
@@ -225,7 +203,7 @@ const Certificates = () => {
         </div>
       </section>
 
-      {/* Sector-Specific Registrations */}
+      {/* Sector-Specific Registrations 
       <section className="py-16 bg-background">
         <div className="container mx-auto px-4">
           <h2 className="text-3xl font-bold mb-12 text-center">Sector-Specific Registrations</h2>
@@ -262,9 +240,10 @@ const Certificates = () => {
             </Card>
           </div>
         </div>
-      </section>
+      </section> 
+      */}
 
-      {/* Financial Transparency */}
+      {/* Financial Transparency 
       <section className="py-16 bg-gradient-to-br from-hero-start/10 to-hero-end/10">
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto">
@@ -317,6 +296,7 @@ const Certificates = () => {
           </div>
         </div>
       </section>
+      */}
 
       <Footer />
     </div>

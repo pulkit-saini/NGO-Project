@@ -55,16 +55,7 @@ const Navigation = () => {
                         Our Values
                       </Link>
                     </DropdownMenuItem>
-                    <DropdownMenuItem asChild>
-                      <Link to="/about/team" className="cursor-pointer">
-                        Our Team
-                      </Link>
-                    </DropdownMenuItem>
-                    <DropdownMenuItem asChild>
-                      <Link to="/about/achievements" className="cursor-pointer">
-                        Awards & Recognition
-                      </Link>
-                    </DropdownMenuItem>
+                
                     <DropdownMenuItem asChild>
                       <Link to="/about/certificates" className="cursor-pointer">
                         Certificates

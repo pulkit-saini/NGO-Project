@@ -36,7 +36,7 @@ const Team = () => {
                 <h3 className="font-bold text-xl mb-1">Dr. Priya Sharma</h3>
                 <p className="text-sm text-primary font-medium mb-3">Founder & Director</p>
                 <p className="text-sm text-muted-foreground mb-4">
-                  Leading EmpowerEdu's mission with 15+ years of experience in social development and educational policy. 
+                  Leading Shring Training & Development Foundation's mission with 15+ years of experience in social development and educational policy. 
                   Ph.D. in Social Work from Delhi University.
                 </p>
                 <div className="flex justify-center gap-2">

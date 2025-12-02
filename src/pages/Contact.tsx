@@ -76,7 +76,7 @@ const Contact = () => {
                     <div>
                       <h3 className="font-semibold mb-1">Email</h3>
                       <p className="text-sm text-muted-foreground">
-                        info@shring.com
+                        info@stdf.org.in
                       </p>
                     </div>
                   </div>

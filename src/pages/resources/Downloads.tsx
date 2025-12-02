@@ -17,7 +17,7 @@ const Downloads = () => {
   ];
 
   const brochures = [
-    { name: "EmpowerEdu Overview Brochure", size: "2.5 MB", type: "PDF", description: "Complete overview of our organization" },
+    { name: "Shring Training & Development Foundation Overview Brochure", size: "2.5 MB", type: "PDF", description: "Complete overview of our organization" },
     { name: "Program Highlights 2024", size: "1.8 MB", type: "PDF", description: "Our programs and achievements" },
     { name: "Education Programs Brochure", size: "1.2 MB", type: "PDF", description: "Detailed education initiatives" },
     { name: "Women Empowerment Brochure", size: "1.4 MB", type: "PDF", description: "Women's programs overview" },
@@ -81,7 +81,7 @@ const Downloads = () => {
                 Downloads Center
               </h1>
               <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-                Access forms, brochures, media kits, templates, and other resources to support your engagement with EmpowerEdu.
+                Access forms, brochures, media kits, templates, and other resources to support your engagement with Shring Training & Development Foundation.
               </p>
             </div>
 

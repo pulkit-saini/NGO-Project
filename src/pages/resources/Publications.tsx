@@ -41,7 +41,7 @@ const Publications = () => {
       year: "2023",
       pages: "68 pages",
       fileSize: "2.1 MB",
-      author: "EmpowerEdu Research Team",
+      author: "Shring Training & Development Foundation Research Team",
       abstract: "Comprehensive three-year evaluation of education programs reaching 30,000+ students across 200 villages.",
       downloads: 3120
     },

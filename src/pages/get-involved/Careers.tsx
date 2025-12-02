@@ -162,7 +162,7 @@ const Careers = () => {
       <section className="py-20 bg-background">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-5xl font-bold mb-4">Why Work With EmpowerEdu?</h2>
+            <h2 className="text-3xl md:text-5xl font-bold mb-4">Why Work With Shring Training & Development Foundation?</h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
               More than a job, it's a calling to serve and transform lives
             </p>
@@ -269,7 +269,7 @@ const Careers = () => {
             <div className="text-center mb-12">
               <h2 className="text-3xl md:text-5xl font-bold mb-4">Application Process</h2>
               <p className="text-xl text-muted-foreground">
-                How to apply for positions at EmpowerEdu
+                How to apply for positions at Shring Training & Development Foundation
               </p>
             </div>
 

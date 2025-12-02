@@ -77,7 +77,7 @@ const JoinUs = () => {
               Join Our Mission to Transform Lives
             </h1>
             <p className="text-xl md:text-2xl mb-8 opacity-90">
-              Be the change you wish to see. Join EmpowerEdu and make a lasting impact on communities across India.
+              Be the change you wish to see. Join Shring Training & Development Foundation and make a lasting impact on communities across India.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button size="lg" variant="secondary" asChild>
@@ -154,7 +154,7 @@ const JoinUs = () => {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto">
             <div className="text-center mb-12">
-              <h2 className="text-3xl md:text-5xl font-bold mb-4">Why Join EmpowerEdu?</h2>
+              <h2 className="text-3xl md:text-5xl font-bold mb-4">Why Join Shring Training & Development Foundation?</h2>
               <p className="text-xl text-muted-foreground">
                 More than just an opportunity, it's a transformative journey
               </p>

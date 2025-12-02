@@ -12,7 +12,7 @@ const About = () => {
       <section className="pt-32 pb-16 bg-gradient-to-br from-hero-start/10 to-hero-end/10">
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center">
-            <h1 className="text-4xl md:text-5xl font-bold mb-6">About EmpowerEdu</h1>
+            <h1 className="text-4xl md:text-5xl font-bold mb-6">About Shring Training & Development Foundation</h1>
             <p className="text-xl text-muted-foreground">
               Building a world where every person has the knowledge, skills, and confidence to shape a better future.
             </p>
@@ -27,7 +27,7 @@ const About = () => {
             <h2 className="text-3xl font-bold mb-6 text-center">Our Story</h2>
             <div className="prose prose-lg max-w-none text-muted-foreground">
               <p className="mb-4">
-                EmpowerEdu was founded in 2010 with a simple yet powerful belief: education is the cornerstone of social change. 
+                Shring Training & Development Foundation was founded in 2010 with a simple yet powerful belief: education is the cornerstone of social change. 
                 What started as a small tutoring program for 20 children has grown into a comprehensive social development 
                 organization serving thousands of individuals across multiple communities.
               </p>
@@ -37,7 +37,7 @@ const About = () => {
                 through vocational training, each success story reinforces our commitment to creating lasting change.
               </p>
               <p>
-                Today, EmpowerEdu operates multiple programs focused on education, skill development, women empowerment, 
+                Today, Shring Training & Development Foundation operates multiple programs focused on education, skill development, women empowerment, 
                 and community development. Our work is guided by the principle that sustainable development requires 
                 holistic support—addressing not just educational needs, but also economic, social, and health-related challenges.
               </p>
@@ -160,7 +160,7 @@ const About = () => {
                 <h3 className="font-bold text-lg mb-2">Dr. Priya Sharma</h3>
                 <p className="text-sm text-primary font-medium mb-2">Founder & Director</p>
                 <p className="text-sm text-muted-foreground">
-                  Leading EmpowerEdu's mission with 15+ years of experience in social development.
+                  Leading Shring Training & Development Foundation's mission with 15+ years of experience in social development.
                 </p>
               </CardContent>
             </Card>

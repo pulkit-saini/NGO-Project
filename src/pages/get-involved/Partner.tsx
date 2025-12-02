@@ -123,7 +123,7 @@ const Partner = () => {
               Partner With Us for Social Impact
             </h1>
             <p className="text-xl md:text-2xl mb-8 opacity-90">
-              Join hands with EmpowerEdu to create sustainable change and fulfill your corporate social responsibility
+              Join hands with Shring Training & Development Foundation to create sustainable change and fulfill your corporate social responsibility
             </p>
             <Button size="lg" variant="secondary" asChild>
               <a href="#inquiry-form">Start Partnership Journey</a>
@@ -177,7 +177,7 @@ const Partner = () => {
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-5xl font-bold mb-4">Partnership Benefits</h2>
             <p className="text-xl text-muted-foreground">
-              What you gain by partnering with EmpowerEdu
+              What you gain by partnering with Shring Training & Development Foundation
             </p>
           </div>
 
